@@ -1,0 +1,19 @@
+
+{
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Vitaliy Panait",
+	  "email": "panait.vi@gmail.com",
+	  "role": "Developer"
+	}
+  ],
+  "require": {
+	"php": ">=5.5.0"
+  },
+  "autoload": {
+	"psr-0": {
+	  "Collection": "src/"
+	}
+  }
+}
